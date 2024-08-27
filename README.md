@@ -52,8 +52,7 @@ contract HospitalManagement {
 }
 ```
 
-Contract Address: [YOUR_CONTRACT_ADDRESS]  
-*(Replace `[YOUR_CONTRACT_ADDRESS]` with your actual deployed contract address.)
+
 
 Future Scope
 
