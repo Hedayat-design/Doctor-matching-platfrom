@@ -6,8 +6,8 @@ The Hospital Management System is designed to simplify and secure the process of
 
  Features
 
-- **Book Appointments**: Patients can schedule appointments by providing their name and the desired date.
-- **View Appointments**: Patients can retrieve and view their own appointment history.
+- Book Appointments**: Patients can schedule appointments by providing their name and the desired date.
+- View Appointments**: Patients can retrieve and view their own appointment history.
 
 Flowchart
 
@@ -29,6 +29,8 @@ Flowchart
    - JavaScript fetches and displays appointments on the web page.
 
  Smart Contract Details
+
+ Contract Address: 0x1fc6422f222639b664c940aad78d5260f3f30665
 
 ```solidity
 // SPDX-License-Identifier: MIT
